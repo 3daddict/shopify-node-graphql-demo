@@ -1,0 +1,14 @@
+{
+  "name": "shopify-node-graphql-demo",
+  "version": "1.0.0",
+  "description": "Shopify NodeJS GraphQL Demo",
+  "main": "server.js",
+  "repository": "https://github.com/3daddict/shopify-node-graphql-demo.git",
+  "author": "Mike",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
